@@ -4,3 +4,4 @@
 4- O que e merge?
 5- O que e pull?
 6- O que e push?
+7- O que e branch?
