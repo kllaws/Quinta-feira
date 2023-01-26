@@ -3,3 +3,4 @@
 3- O que e um repositorio?
 4- O que e merge?
 5- O que e pull?
+6- O que e push?
