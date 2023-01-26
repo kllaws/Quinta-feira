@@ -8,6 +8,8 @@ empacotamento de alteraçao
 e a pasta onde fica os arquivos do projeto
 
 4- O que e merge?
+o Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal.
+
 5- O que e pull?
 6- O que e push?
 7- O que e branch?
