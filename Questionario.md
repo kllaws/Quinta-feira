@@ -5,6 +5,8 @@ uma copia do repositorio remoto para a maquina local.
 empacotamento de alteraçao
 
 3- O que e um repositorio?
+e a pasta onde fica os arquivos do projeto
+
 4- O que e merge?
 5- O que e pull?
 6- O que e push?
