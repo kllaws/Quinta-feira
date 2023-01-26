@@ -5,4 +5,5 @@
 5- O que e pull?
 6- O que e push?
 7- O que e branch?
-8- O que e fork?
+8- O que e pull request?
+9- O que e fork?
