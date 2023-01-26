@@ -11,6 +11,8 @@ e a pasta onde fica os arquivos do projeto
 o Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal.
 
 5- O que e pull?
+trazer alteraçao do repositorio remoto para o repositorio local.
+
 6- O que e push?
 7- O que e branch?
 8- O que e pull request?
