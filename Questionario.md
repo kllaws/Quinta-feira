@@ -14,6 +14,8 @@ o Git merge permite que você pegue as linhas criadas a partir do Git branch e f
 trazer alteraçao do repositorio remoto para o repositorio local.
 
 6- O que e push?
+enviar as informaçoes que foram empacotadas para o repositorio remoto.
+
 7- O que e branch?
 8- O que e pull request?
 9- O que e fork?
