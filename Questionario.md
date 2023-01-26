@@ -2,6 +2,8 @@
 uma copia do repositorio remoto para a maquina local.
 
 2- O que e commit?
+empacotamento de alteraçao
+
 3- O que e um repositorio?
 4- O que e merge?
 5- O que e pull?
