@@ -26,3 +26,5 @@ enviar as informaçoes que foram empacotadas para o repositorio remoto.
 fork é basicamente a modificação do código-fonte da blockchain do projeto.
 
 10- O que e VCS?
+Um Sistema de Controle de Versão (ou Version Control System - VCS) é uma metodologia ou ferramenta que ajuda a rastrear alterações 
+nos arquivos do projeto.
