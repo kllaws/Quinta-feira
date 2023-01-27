@@ -23,7 +23,7 @@ enviar as informaçoes que foram empacotadas para o repositorio remoto.
 é uma forma de propor alguma alteração no código de um repositório.
 
 9- O que e fork?
-fork é basicamente a modificação do código-fonte da blockchain do projeto.
+clonar um repositorio ja exixtente.
 
 10- O que e VCS?
 Um Sistema de Controle de Versão (ou Version Control System - VCS) é uma metodologia ou ferramenta que ajuda a rastrear alterações 
