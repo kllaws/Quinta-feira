@@ -17,13 +17,13 @@ trazer alteraçao do repositorio remoto para o repositorio local.
 enviar as informaçoes que foram empacotadas para o repositorio remoto.
 
 7- O que e branch?
- o Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal.
+O comando git branch permite criar, listar, renomear e excluir ramificações.
 
 8- O que e pull request?
 é uma forma de propor alguma alteração no código de um repositório.
 
 9- O que e fork?
-clonar um repositorio ja exixtente.
+um fork é basicamente a modificação do código-fonte da blockchain do projeto.
 
 10- O que e VCS?
 Um Sistema de Controle de Versão (ou Version Control System - VCS) é uma metodologia ou ferramenta que ajuda a rastrear alterações 
